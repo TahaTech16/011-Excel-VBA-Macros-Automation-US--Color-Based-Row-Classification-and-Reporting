@@ -1,2 +1,22 @@
 # 011-Excel-VBA-Macros-Automation-US--Color-Based-Row-Classification-and-Reporting
 Developed an Excel VBA solution to automate reporting based on the **row color formatting** applied by users. The tool was designed
+
+### **Project Title:**
+
+**011 – Excel VBA Macros Automation (US) – Color-Based Row Classification and Reporting**
+
+### **Description:**
+
+Developed an Excel VBA solution to automate reporting based on the **row color formatting** applied by users. The tool was designed to:
+
+* Identify and categorize data rows based on their **background fill color** (e.g., red = urgent, green = completed, yellow = pending)
+* Automate the **extraction and consolidation** of color-coded rows into separate summary reports
+* Generate dynamic counts and totals based on color classification
+* Enable users to easily update formatting, and have the report auto-refresh accordingly
+* Reduce manual work in sorting and filtering large datasets for reporting
+* Tailored for **U.S.-based clients**, ensuring localized formatting (e.g., MM/DD/YYYY, \$ currency)
+
+**Objective:**
+To enhance visibility into task status or data categories by utilizing color-coded logic for fast, automated reporting and decision-making.
+
+
